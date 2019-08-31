@@ -1,1 +1,1 @@
-processGoogleToken({"newToken":"ChAI8LWo6wUQpeOHysO5o951EkgA6V6qg9OxuogemjEAmcznfkCjK_g81sSzme7E0gnUk1FoUMdaaEAtIc1X5NT-2-uNUC1AVrQqzz0SORd_6bl_ugu9-cnpoFs","validLifetimeSecs":300,"freshLifetimeSecs":300,"1p_jar":"2019-8-31-12","pucrd":""});
+processGoogleToken({"newToken":"NT","validLifetimeSecs":300,"freshLifetimeSecs":300,"1p_jar":"","pucrd":""});
